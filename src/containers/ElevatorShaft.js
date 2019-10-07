@@ -2,10 +2,10 @@ import React from 'react';
 
 import { Floor } from './Floor';
 import { Elevator } from './Elevator';
-import ElevatorScene1 from '../images/ElevatorScene1.png';
-import ElevatorScene2 from '../images/ElevatorScene2.png';
-import ElevatorScene3 from '../images/ElevatorScene3.png';
-import ElevatorScene4 from '../images/ElevatorScene4.png';
+import ElevatorScene1 from '../images/ElevatorScene1Small.png';
+import ElevatorScene2 from '../images/ElevatorScene2Small.png';
+import ElevatorScene3 from '../images/ElevatorScene3Small.png';
+import ElevatorScene4 from '../images/ElevatorScene4Small.png';
 
 export class ElevatorShaft extends React.Component {
     constructor(props) {
