@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/elevator/static/css/main.2ef70437.chunk.css",
+    "main.js": "/elevator/static/js/main.55e88b62.chunk.js",
+    "main.js.map": "/elevator/static/js/main.55e88b62.chunk.js.map",
+    "runtime-main.js": "/elevator/static/js/runtime-main.54ea0716.js",
+    "runtime-main.js.map": "/elevator/static/js/runtime-main.54ea0716.js.map",
+    "static/js/2.c97f70e4.chunk.js": "/elevator/static/js/2.c97f70e4.chunk.js",
+    "static/js/2.c97f70e4.chunk.js.map": "/elevator/static/js/2.c97f70e4.chunk.js.map",
+    "index.html": "/elevator/index.html",
+    "precache-manifest.7d1be79c1d6eab1be255969d7672129e.js": "/elevator/precache-manifest.7d1be79c1d6eab1be255969d7672129e.js",
+    "service-worker.js": "/elevator/service-worker.js",
+    "static/css/main.2ef70437.chunk.css.map": "/elevator/static/css/main.2ef70437.chunk.css.map",
+    "static/media/ElevatorScene1.png": "/elevator/static/media/ElevatorScene1.c060c398.png",
+    "static/media/ElevatorScene2.png": "/elevator/static/media/ElevatorScene2.d27e56a6.png",
+    "static/media/ElevatorScene3.png": "/elevator/static/media/ElevatorScene3.0b1aca68.png",
+    "static/media/ElevatorScene4.png": "/elevator/static/media/ElevatorScene4.5073e4d6.png",
+    "static/media/App.css": "/elevator/static/media/Open.a327db5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ea0716.js",
+    "static/js/2.c97f70e4.chunk.js",
+    "static/css/main.2ef70437.chunk.css",
+    "static/js/main.55e88b62.chunk.js"
+  ]
+}
